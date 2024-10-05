@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @aryan-dhanawade
+- 📊 I’m interested in Finance & Quantitative Analysis
+- 💻I’m currently learning C++ for Finance
+- 🤖 I’m looking to collaborate on Projects on Machine Learning for Financial Applications.
+- 🏢 How to reach me: Linkedin - https://www.linkedin.com/in/aryan-dhanawade/
+- 🐈 Fun fact: I love cats.
